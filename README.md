@@ -1,4 +1,5 @@
 - 👋 Hi, I’m SUBHAM GUPTA
+- <img align="right" alt="Coding" width="400" src="[https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif](https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif)">
 - 👀 I’m interested in DATA ANALYTICS AND VISUALIZATIONS
 - 🌱 I’m currently learning SQL, PYTHON, MACHINE LEARNING and DATA VISUALIZATION USING POWER BI
 - 💞️ I’m looking to collaborate on projects
