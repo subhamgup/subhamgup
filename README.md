@@ -1,3 +1,4 @@
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 - 👋 Hi, I’m SUBHAM GUPTA
 - 👀 I’m interested in DATA ANALYTICS AND VISUALIZATIONS
 - 🌱 I’m currently learning SQL, PYTHON, MACHINE LEARNING and DATA VISUALIZATION USING POWER BI
