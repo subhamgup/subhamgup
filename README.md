@@ -25,7 +25,7 @@
 <p align="left"> <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="PowerBi" width="80" height="40"/> </a> 
   <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/famous-brand-apps/100/_-04-512.png" alt="Excel" width="40" height="40"/> </a> 
   </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-    </a> <a href="https://https://www.python.org//" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png)" alt="Python" width="40" height="40"/> </a>
+    </a> <a href="https://https://www.python.org//" target="_blank" rel="noreferrer"> <img https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" alt="Python" width="40" height="40"/> </a>
 
 <!---
 subhamgup/subhamgup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
